@@ -5,43 +5,67 @@ A machine learning–powered web application built using Streamlit that predicts
 
 Breast cancer is one of the most common cancers worldwide, and early detection significantly improves survival rates.
 This project demonstrates how machine learning can assist in healthcare by providing a simple, interactive, and data-driven prediction system.
-a.Users can input tumor features through a clean web interface, and the application instantly returns:
-b.Cancer prediction (Benign / Malignant)
-c.Confidence score
-d.Model accuracy
-e.Confusion matrix visualization
+
+Users can input tumor features through a clean web interface, and the application instantly returns:
+
+Cancer prediction (Benign / Malignant)
+
+Confidence score
+
+Model accuracy
+
+Confusion matrix visualization
+
+⚠️ This project is intended for educational and academic purposes only.
 
 ⚙️ Technologies Used
 
-Python:
+Python
+
 Streamlit – Web application framework
+
 NumPy – Numerical computations
+
 Pandas – Data handling and analysis
+
 Scikit-learn – Machine learning model & preprocessing
+
 Matplotlib & Seaborn – Data visualization
 
 🤖 Machine Learning Model
 
 Algorithm: Support Vector Machine (SVM)
+
 Kernel: Linear
+
 Feature Scaling: StandardScaler
+
 Dataset: Breast Cancer Wisconsin Dataset (sklearn)
+
 Train–Test Split: 80% training, 20% testing
 
 🧠 Key Features
 
 User-friendly sidebar for feature input
+
 Real-time cancer prediction
+
 Confidence score for predictions
+
 Model accuracy displayed on test data
+
 Confusion matrix heatmap for evaluation
+
 Input validation to prevent unrealistic predictions
 
 📊 Model Performance
 
 Evaluation Metrics Used:
+
 Accuracy Score
+
 Confusion Matrix
+
 Provides transparency into model reliability and performance
 
 🚀 How to Run the Project
@@ -57,12 +81,15 @@ streamlit run breast_cancer_prediction.py
 📁 Breast-Cancer-Prediction-System
  ├── breast_cancer_prediction.py
  ├── README.md
- 
+
 🎯 Applications
 
 Academic and educational learning
+
 Demonstration of ML in healthcare
+
 Streamlit + ML portfolio project
+
 Beginner-friendly ML deployment example
 
 This application is not a medical diagnostic tool and should not be used for real-world clinical decisions. Always consult a certified medical professional for medical advice.
