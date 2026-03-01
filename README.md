@@ -16,7 +16,6 @@ Model accuracy
 
 Confusion matrix visualization
 
-⚠️ This project is intended for educational and academic purposes only.
 
 ⚙️ Technologies Used
 
@@ -93,3 +92,4 @@ Streamlit + ML portfolio project
 Beginner-friendly ML deployment example
 
 This application is not a medical diagnostic tool and should not be used for real-world clinical decisions. Always consult a certified medical professional for medical advice.
+
