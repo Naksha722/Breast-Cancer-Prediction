@@ -68,17 +68,29 @@ Confusion Matrix
 Provides transparency into model reliability and performance
 
 🚀 How to Run the Project
+
 1️⃣ Clone the repository
+
 git clone https://github.com/your-username/your-repository-name.git
+
 2️⃣ Navigate to the project folder
+
 cd your-repository-name
+
 3️⃣ Install required dependencies
+
 pip install -r requirements.txt
+
 4️⃣ Run the Streamlit app
+
 streamlit run breast_cancer_prediction.py
+
 📂 Project Structure
+
 📁 Breast-Cancer-Prediction-System
+
  ├── breast_cancer_prediction.py
+ 
  ├── README.md
 
 🎯 Applications
@@ -92,4 +104,5 @@ Streamlit + ML portfolio project
 Beginner-friendly ML deployment example
 
 This application is not a medical diagnostic tool and should not be used for real-world clinical decisions. Always consult a certified medical professional for medical advice.
+
 
