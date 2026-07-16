@@ -101,8 +101,4 @@ Demonstration of ML in healthcare
 
 Streamlit + ML portfolio project
 
-Beginner-friendly ML deployment example
-
-This application is not a medical diagnostic tool and should not be used for real-world clinical decisions. Always consult a certified medical professional for medical advice.
-
 
